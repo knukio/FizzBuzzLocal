@@ -13,7 +13,7 @@ If you assign args under 100, 1 throuth args number
 
 ### About This Branch Specification
 
-- test is not required
+- test code is not required yet
 - strings Fizz,Buzz and divide number 3,5 is changeable
 - number of strings and divide number pair is changeable
 - default print numbers range is 1 to 100
