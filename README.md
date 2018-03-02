@@ -10,3 +10,8 @@ If you assign args under 100, 1 throuth args number
 - if the number is divisible by 5 print Buzz
 - if the number is divisible by 3 and 5 print FizzBuzz
 - else, print the number
+
+### Usage
+```
+bundle exec ruby main.rb [min number] [max number]
+```
